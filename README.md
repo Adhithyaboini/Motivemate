@@ -95,11 +95,11 @@ Inspirational
     <p>If you have questions or need guidance, feel free to reach out.</p>
     <div class="form-group">
         <label for="contact-email">Email</label>
-        <input type="email" id="contact-email" placeholder="Enter your email">
+        <input type="email" id="contact-email" placeholder="boinisailu76664@gmail.com">
     </div>
     <div class="form-group">
         <label for="contact-message">Message</label>
-        <textarea id="contact-message" placeholder="Your message"></textarea>
+        <textarea id="contact-message" placeholder="8074407939"></textarea>
     </div>
     <button class="btn" onclick="alert('Message sent!')">Send Message</button>
 </section>
